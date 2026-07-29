@@ -1,9 +1,5 @@
 # DEA-Efficiency-Toolkit
-
-```markdown
-# DEA-Efficiency-Toolkit
-
-# Generalized Data Envelopment Analysis (DEA) Toolkit for Eco‑Efficiency
+### Generalized Data Envelopment Analysis (DEA) Toolkit for Eco‑Efficiency
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -37,18 +33,3 @@ DEA-Efficiency-Toolkit/
 ├── tests/
 ├── requirements.txt
 └── README.md
-
-
-
-
-
-----------------------------
-# DEA-Efficiency-Toolkit
-### Generalized Data Envelopment Analysis (DEA) Toolkit for Eco-Efficiency
-
-## 📖 Overview
-This repository implements Data Envelopment Analysis (DEA) models, including the Slacks-Based Measure (SBM) with undesirable outputs, for benchmarking eco-efficiency in energy systems.
-
-## 🛠 Models Included
-* **CCR (CRS) and BCC (VRS)** radial DEA.
-* **SBM-DEA** with undesirable outputs (e.g., carbon emissions, battery degradation).
