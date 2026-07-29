@@ -37,3 +37,18 @@ DEA-Efficiency-Toolkit/
 ├── tests/
 ├── requirements.txt
 └── README.md
+
+
+
+
+
+----------------------------
+# DEA-Efficiency-Toolkit
+### Generalized Data Envelopment Analysis (DEA) Toolkit for Eco-Efficiency
+
+## 📖 Overview
+This repository implements Data Envelopment Analysis (DEA) models, including the Slacks-Based Measure (SBM) with undesirable outputs, for benchmarking eco-efficiency in energy systems.
+
+## 🛠 Models Included
+* **CCR (CRS) and BCC (VRS)** radial DEA.
+* **SBM-DEA** with undesirable outputs (e.g., carbon emissions, battery degradation).
