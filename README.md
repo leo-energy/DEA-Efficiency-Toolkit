@@ -33,3 +33,16 @@ DEA-Efficiency-Toolkit/
 ├── tests/
 ├── requirements.txt
 └── README.md
+```
+---
+
+## 🚀 Usage
+
+```python
+from src.sbm_dea import SBM_DEA
+model = SBM_DEA(inputs, desirable_outputs, undesirable_outputs)
+efficiency_scores = model.run()
+```
+
+## 📄 License
+[MIT](https://opensource.org/licenses/MIT)
